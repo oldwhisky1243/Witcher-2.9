@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "witchersigns",
+    "name": "WitcherSigns",
+    "description": "Lightweight Witcher-inspired Signs for Minecraft 1.7.10.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["WitcherSigns"],
+    "credits": "Inspired by The Witcher novels",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
